@@ -1,4 +1,4 @@
 myAddressBook
 =============
 
-Developing Address Book using JAVA application
+Developing Address Book Application using JAVA
